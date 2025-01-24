@@ -1,0 +1,13 @@
+{
+  "name": "data-processing-learning",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendizaje para procesamiento de datos",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "papaparse": "^5.4.0",
+    "d3": "^7.8.0"
+  }
+}
